@@ -15,15 +15,15 @@ python main.py
 ```
 
 ## Règles
--Le joueur 1 joue avec le symbole X
--Le joueur 2 (ou l'IA) joue avec le symbole O
--Le premier à aligner ses symboles gagne
+- Le joueur 1 joue avec le symbole X
+- Le joueur 2 (ou l'IA) joue avec le symbole O
+- Le premier à aligner ses symboles gagne
 
-##Technologies
--Python 3
+## Technologies
+- Python 3
 
-##Remarques
+## Remarques
 Projet réalisé pour pratiquer :
--la décomposition en fonctions
--la gestion de structures de données
--la logique algorithmique
+- la décomposition en fonctions
+- la gestion de structures de données
+- la logique algorithmique
