@@ -1,6 +1,6 @@
 # Morpion en Python
 
-Jeu du morpion (tic-tac-toe) développé en Python dans le cadre de projets personnels et d'entraînement en programmation.
+Jeu du morpion (tic-tac-toe) développé en Python dans le cadre de projets et d'entraînement en programmation. (NSI)
 
 ## Fonctionnalités
 - Jeu à 2 joueurs
@@ -27,3 +27,4 @@ Projet réalisé pour pratiquer :
 - la décomposition en fonctions
 - la gestion de structures de données
 - la logique algorithmique
+- l'analyse et le test du code
